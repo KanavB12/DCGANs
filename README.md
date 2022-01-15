@@ -3,7 +3,7 @@ An attempt to understand and practice Deep Convolutional Generative Adversarial 
 
 Used Fashion MNIST datast to generate images of different fashion items from noise vectors.
 
-Noise:
+Noise: //
 ![](Images/Noise.png)
 
 Generated Images:
